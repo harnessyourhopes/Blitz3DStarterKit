@@ -1,3 +1,6 @@
+# RIP Mark Sibly
+[facebook post](https://www.facebook.com/acidsoftware/posts/pfbid0upvqKW71ncjQKPbGjFEtofW2svTAvtyUWx4ZwTdy66AwDqmDhg6mpunndsrZJPQ1l)
+
 # Blitz3D Starter Kit
 
 This is a wip obviously from the little features there are but I plan on adding a lot of utility items that games would need along with a game configuration file for global low security variables (such as FPS, etc)
